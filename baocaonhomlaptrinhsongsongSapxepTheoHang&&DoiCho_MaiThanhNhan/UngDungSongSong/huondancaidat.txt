@@ -1,0 +1,5 @@
+Em Có để link cài devexpress ở ngoài mún chạy được ứng dụng cài bản thữ của devexpress
+Là Chạy Được Form
+Nhóm Em là Mai Thành Nhân nha thầy.!!
+Em Có để 1 file thư mục ảnh trong debug để thì k cần sữa code khi chạy
+Thầy đừng xóa trong debug để k ảnh hưởng
